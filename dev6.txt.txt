@@ -1,1 +1,4 @@
 dev6 file created
+
+print('Hello world')
+
